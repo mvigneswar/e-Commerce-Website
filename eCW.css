@@ -1,0 +1,259 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.styleaa {
+    height: 50px;
+}
+
+.styleba {
+    color: #183b56;
+    font-size: 33px;
+    font-weight: 700;
+}
+
+.stylebb {
+    color: #616c7c;
+    font-size: 18px;
+}
+
+.stylebc {
+    margin: 5px;
+}
+
+.stylebd {
+    height: 100px;
+}
+
+.stylebe {
+    font-size: 20px;
+}
+
+.stylebf {
+    color: #7b8794;
+}
+
+.styleca {
+    color: #183b56;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.stylecb {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    border-radius: 10px;
+    height: 300px;
+    background-size: cover;
+    width: 300px;
+}
+
+.stylecc {
+    color: white;
+    font-size: 33px;
+}
+
+.stylecd {
+    color: white;
+    font-size: 15px;
+}
+
+.stylece {
+    width: 120px;
+    border-style: none;
+    border-radius: 24px;
+    background-color: white;
+    color: #ff9f00;
+}
+
+.stylecf {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    border-radius: 10px;
+    height: 300px;
+    background-size: cover;
+    width: 300px;
+}
+
+.stylecg {
+    color: #ff9f00;
+    font-size: 15px;
+}
+
+.stylech {
+    color: #183b56;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.styleci {
+    border-style: solid;
+    border-width: 1px;
+    background-color: white;
+    color: #323f4b;
+    font-size: 16px;
+    border-radius: 4px;
+}
+
+.styleda {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    background-size: cover;
+}
+
+.styledb {
+    height: 100px;
+}
+
+.styledc {
+    height: 200px;
+}
+
+.styledd {
+    color: #ad2167;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.stylede {
+    color: white;
+    font-size: 17px;
+}
+
+.styledf {
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.styledg {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-offers-credit-card-img.png");
+    height: 150px;
+    width: 500px;
+    background-size: cover;
+}
+
+.styleea {
+    color: #183b56;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.styleec {
+    width: 280px;
+    height: 136px;
+}
+
+.styleed {
+    font-size: 15px;
+    color: #959ead;
+}
+
+.styleee {
+    color: #183b56;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.styleef {
+    font-size: 20px;
+    color: #959ead;
+}
+
+.styleeg {
+    font-size: 15px;
+    font-weight: 700;
+    color: #ff9f00;
+}
+
+.stylefa {
+    background-color: #f5f7fa;
+}
+
+.stylefb {
+    color: #183b56;
+    font-size: 33px;
+    font-weight: 700;
+}
+
+.stylefc {
+    border-radius: 9px;
+    background-color: white;
+}
+
+.stylefd {
+    color: #183b56;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.stylefg {
+    border-radius: 40px;
+    height: 132px;
+}
+
+.stylefh {
+    color: black;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.stylefi {
+    color: #ff9f00;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.stylefj {
+    height: 280px;
+    border-radius: 20px;
+}
+
+.stylefm {
+    height: 108px;
+}
+
+.stylega {
+    font-size: 33px;
+    font-weight: bold;
+    color: #183b56;
+}
+
+#secga {
+    font-size: 20px;
+    color: #ff9f00;
+    background-color: #f5f7fa !important
+}
+
+.styleha {
+    height: 60px;
+}
+
+.stylehb {
+    border-radius: 40px;
+    background-color: #152c3e;
+    color: #5a7184;
+}
+
+.stylehc {
+    color: grey;
+    font-size: 15px;
+}
+
+.stylehd {
+    color: #5a7184;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.stylehe {
+    color: #5a7184;
+    font-size: 15px;
+}
+
+.stylehf {
+    color: #5a7184;
+}
+
+.stylehg {
+    border-style: solid;
+    border-radius: 120px;
+    border-color: #5a7184;
+    padding-left: 5px;
+    padding-right: 5px;
+}
